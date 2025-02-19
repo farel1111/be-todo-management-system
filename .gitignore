@@ -3,3 +3,6 @@
 
 # Node Module
 node_modules
+
+.eslintsrc.json
+.prettierrc.json
